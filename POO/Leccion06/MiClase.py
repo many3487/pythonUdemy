@@ -38,7 +38,7 @@ print(miclase2.variable_vuelo)
 
 #contexto dinamico cuando ya se han creado los objetos tampoco los metodos pueden acceder a las instancias  para acceder a la variable clase, se debe llamar priumero a la clase
 
-MiClase.metodo_estatico()
+MiClase.metodo_estatico()  
 
 
 #atributo o variable es lo mismo 
